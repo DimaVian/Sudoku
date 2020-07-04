@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(212, 226, 233);
+}   
+#registr{
+    position: relative;
+    left: 180ch;
+    top: 40ch;
+} 
+h1{
+    position: relative;
+    right: 7ch;
+    bottom: 1.5ch;
+    font: 700 11em/1 "Oswald", sans-serif;
+    letter-spacing: 0;
+    padding: .25em 0 .325em;
+    margin: 0 auto;
+    text-shadow: 0 0 80px rgba(238, 105, 28, 0.856);
+    color: rgb(238, 105, 28);
+}
+p{
+    position: absolute;
+    font-size: 6ch;
+    bottom: 11ch;
+    left: -32ch;
+    color: rgb(238, 105, 28);
+    
+}
+#user{
+    width: 40ch;
+    height: 4ch;
+    position: relative;
+    bottom: 13ch;
+    right: 60ch;
+    border-radius: 1ch;
+    outline: none;
+}
+#pass{
+    width: 40ch;
+    height: 4ch;
+    position: relative;
+    bottom: 10ch;
+    right: 60ch;
+    border-radius: 1ch;
+    outline: none;
+}
+#enter {
+    position: relative;
+    right: 61ch;
+    bottom: 5ch;
+    text-decoration: none;
+    outline: none;
+    display: inline-block;
+    width: 170px;
+    height: 55px;
+    line-height: 45px;
+    border-radius: 45px;
+    font-size: 11px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 3px;
+    font-weight: 600;
+    color: #524f4e;
+    background: white;
+    box-shadow: 0 8px 15px rgba(0,0,0,.1);
+    transition: .3s;
+  }
+  #enter:hover {
+    background: rgb(238, 105, 28);
+    box-shadow: 0 15px 20px rgba(233, 126, 26, 0.596);
+    color: white;
+    /* transform: translateY(-7px);  */
+  }
+
+
+
+
+
+
+
+
+
+
+
